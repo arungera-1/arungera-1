@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Gera</h1>
-<h3 align="center">A passionate computer science engineer from India</h3>
+<h3 align="center">A passionate computer science engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP20yXE5UpzlgcjnZUJZp-cRh5x4PTlsEowg&usqp=CAU">
 <h3 align="left">About me:</h3>
