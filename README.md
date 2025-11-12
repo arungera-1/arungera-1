@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Gera</h1>
 <h3 align="center">A passionate computer science engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP20yXE5UpzlgcjnZUJZp-cRh5x4PTlsEowg&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdekodix.com%2Fblogs%2Fhow-cloud-based-ai-is-driving-us-business%2F%3Fsrsltid%3DAfmBOoqqAHFegWCTEcZscY9j1cpK7-kAg6LKq5ogmJoHhmKlKJe-ds7m&psig=AOvVaw03QQt5m_vX41x_GUO4rr16&ust=1763026670298000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjBlaeo7JADFQAAAAAdAAAAABAL">
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on **Devloping Python,Cloud and AI skills.**
