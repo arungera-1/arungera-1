@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP20yXE5UpzlgcjnZUJZp-cRh5x4PTlsEowg&usqp=CAU">
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **Devloping Python and AI skills.**
+- 🔭 I’m currently working on **Devloping Python,Cloud and AI skills.**
 
-- 🌱 I’m currently learning **DSA and ML Algos.**
+- 🌱 I’m currently learning **Cloud and AI/ML.**
 
-- 👯 I’m looking to collaborate on **Analytics and AI related projects.**
+- 👯 I’m looking to collaborate on **Cloud and AI related projects.**
 
-- 💬 Ask me about **AI/ML**
+- 💬 Ask me about **Cloud and AI/ML**
 
 - 📫 How to reach me **arungera28@gmail.com**
 
