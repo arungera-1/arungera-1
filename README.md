@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Gera</h1>
 <h3 align="center">A passionate computer science engineer</h3>
 
-<img align="right" alt="Coding" width="200" src="arun-avatar.png">
+<img align="right" alt="Coding" width="400" src="arun-avatar.png">
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on **Devloping Python,Cloud and AI skills.**
