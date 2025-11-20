@@ -26,4 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arungera-1&show_icons=true&locale=en&layout=compact" alt="arungera-1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arungera-1&" alt="arungera-1" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arungera-1&theme=dark&hide_border=true" alt="arungera-1" />
+</p>
